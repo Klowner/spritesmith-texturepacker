@@ -1,6 +1,6 @@
 {
 	"name": "spritesmith-texturepacker",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Export TexturePacker compatible sprite sheets with SpriteSmith",
 	"author": {
 		"name": "Mark Riedesel",
