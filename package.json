@@ -1,0 +1,32 @@
+{
+	"name": "spritesmith-texturepacker",
+	"version": "0.1.0",
+	"description": "Export TexturePacker compatible sprite sheets with SpriteSmith",
+	"author": {
+		"name": "Mark Riedesel",
+		"email": "mark@klowner.com",
+		"url": "https://github.com/Klowner/spritesmith-texturepacker"
+	},
+	"homepage": "https://github.com/Klowner/spritesmith-texturepacker",
+	"keywords": [
+		"texturepacker",
+		"spritesmith",
+		"export",
+		"sprite",
+		"2d"
+	],
+	"main": "texturepacker.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Klowner/spritesmith-texturepacker"
+	},
+	"bugs": {
+		"url": "https://github.com/Klowner/spritesmith-texturepacker/issues"
+	},
+	"maintainers": [
+		{
+			"name": "Klowner",
+			"email": "mark@klowner.com"
+		}
+	]
+}
