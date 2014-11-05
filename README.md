@@ -1,5 +1,5 @@
 
-# SpriteSmith TexturePacker
+# SpriteSmith TexturePacker [![NPM Version][npm-image]][npm-url]
 
 TexturePacker export template for SpriteSmith!
 
@@ -37,3 +37,10 @@ With npm:
 ```
 npm install spritesmith-texturepacker
 ```
+
+## License
+Copyright (c) 2014 Mark Riedesel
+Licensed under the MIT license.
+
+[npm-url]: https://www.npmjs.org/package/spritesmith-texturepacker 
+[npm-image]: http://img.shields.io/npm/v/spritesmith-texturepacker.svg?style=flat
