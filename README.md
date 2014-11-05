@@ -1,5 +1,5 @@
 
-# SpriteSmith TexturePacker [![NPM Version][npm-image]][npm-url]
+# SpriteSmith TexturePacker [![NPM Version][npm-image]][npm-url] [![NPM Downloads][npm-download-image]][npm-url]
 
 TexturePacker export template for SpriteSmith!
 
@@ -44,3 +44,4 @@ Licensed under the MIT license.
 
 [npm-url]: https://www.npmjs.org/package/spritesmith-texturepacker 
 [npm-image]: http://img.shields.io/npm/v/spritesmith-texturepacker.svg?style=flat
+[npm-download-image]: http://img.shields.io/npm/dm/spritesmith-texturepacker.svg?style=flat
