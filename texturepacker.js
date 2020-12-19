@@ -1,6 +1,6 @@
-function texturePackerTemplate(params) {
+function texturePackerTemplate (params) {
 	var items = params.items,
-		itemObj = {frames: {}},
+		itemObj = { frames: {} },
 		frames = itemObj.frames,
 		item,
 		animations = {};
